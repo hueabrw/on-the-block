@@ -31,4 +31,8 @@ A repository for a CWEB1130 team
   - Where do we want to keep our documentation? this repository? the project repository?
   - Do we want to use Azure DevOps?
   - Do we want to implement scrum?
+<<<<<<< HEAD
   - test change
+=======
+  - Updates in Discord?
+>>>>>>> a8546a1686f556d43967f753211d20bc601a22cd

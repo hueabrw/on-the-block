@@ -1,6 +1,11 @@
-# team_repo
-A repository for a CWEB1130 team
+# Team_Repo
 
+This repository describes the layout for CWEB1130 spring team project. It describes our branching strategy and our workflow guidelines for this project. The project is located at a different repository. This repository is exclusively for documentation.
+
+## Contributors
+  - Cody Driver
+  - Ana Nelson
+  - Abe Huerta
 
 # Branches
 

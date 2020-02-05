@@ -1,6 +1,11 @@
-# team_repo
-A repository for a CWEB1130 team
+# Team_Repo
 
+This repository describes the layout for CWEB1130 spring team project. It describes our branching strategy and our workflow guidelines for this project. The project is located at a different repository. This repository is exclusively for documentation.
+
+## Contributors
+  - Cody Driver
+  - Ana Nelson
+  - Abe Huerta
 
 # Branches
 
@@ -8,8 +13,8 @@ A repository for a CWEB1130 team
   * Release - This branch is where we stage for Production, making sure that all new features that were added are fully intergrated without bugs and function with the rest of the web app. Only after all testing is done and everyone agrees that this branch has been properly staged do we push this branch to Production.
   * Development - This branch is for all our development. Anyone can push to this branch. Once we feel like this branch has reached a milestone or a feature has been completed we can request a merge to the release branch. We only push to the Release branch if we have consensus.
   * codys-branch - This is Cody's work branch. Only cody can work on this branch.
-  * anas-branch - This is Ana's work branch. Only cody can work on this branch.
-  * abes-branch - This is Abe's work branch. Only cody can work on this branch.
+  * anas-branch - This is Ana's work branch. Only Ana can work on this branch.
+  * abes-branch - This is Abe's work branch. Only Abe can work on this branch.
 
 ### Other Branches (can be deleted)
 

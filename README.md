@@ -1,6 +1,6 @@
 # Team_Repo
 
-This repository describes the layout for CWEB1130 spring team project. It describes our branching strategy and our workflow guidelines for this project. The project is located at a different repository. This repository is exclusively for documentation.
+This repository describes the layout for CWEB1130 spring team project. It describes our branching strategy and our workflow guidelines for this project. The project is located at a different repository. This repository is exclusively for planning out our project workflows.
 
 ## Contributors
   - Cody Driver
@@ -30,8 +30,8 @@ This repository describes the layout for CWEB1130 spring team project. It descri
   - Release is reviewed by entire team we push to Production
   - For communications we will use a Discord server
   - Everyone will use Visual Studio Code for their coding environment
+  - All documentation will be recorded in a documentation folder on the project repository
 
 ### Workflow to Consider:
 
   - How do we want to deal with conflict?
-  - Where do we want to keep our documentation? this repository? the project repository?

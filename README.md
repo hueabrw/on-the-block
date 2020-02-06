@@ -25,6 +25,7 @@ This repository describes the layout for CWEB1130 spring team project. It descri
  
   - Everyone works on their own branch
   - Once code is completed push to Development
+  - Always pull from Development branch and merge changes before you push your code back to Development
   - Once Development has reached a milestone make a pull request to Release
   - Release is reviewed by entire team we push to Production
   - For communications we will use a Discord server
@@ -34,5 +35,3 @@ This repository describes the layout for CWEB1130 spring team project. It descri
 
   - How do we want to deal with conflict?
   - Where do we want to keep our documentation? this repository? the project repository?
-  - Do we want to use Azure DevOps?
-  - Do we want to implement scrum?

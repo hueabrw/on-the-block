@@ -36,3 +36,9 @@ This repository describes the layout for CWEB1130 spring team project. It descri
   - Where do we want to keep our documentation? this repository? the project repository?
   - Do we want to use Azure DevOps?
   - Do we want to implement scrum?
+
+## Ideas we want to consider:
+ - Block Party Data
+ - Police incidents around you
+ - Poperty Sales
+ - Request all Complaints of a certian types

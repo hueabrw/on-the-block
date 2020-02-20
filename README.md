@@ -37,5 +37,5 @@ This repository describes the layout for CWEB1130 spring team project. It descri
   - Do we want to use Azure DevOps?
   - Do we want to implement scrum?
 
-## Ideas we want to consider:
+## Our Subject for the website
  - Block Party Data

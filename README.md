@@ -39,6 +39,3 @@ This repository describes the layout for CWEB1130 spring team project. It descri
 
 ## Ideas we want to consider:
  - Block Party Data
- - Police incidents around you
- - Poperty Sales
- - Request all Complaints of a certian types
